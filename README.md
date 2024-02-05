@@ -11,4 +11,5 @@ Una vez finalizado, hay que subir el código a un repo GIT y ofrecernos la URL p
 
 
 TODO-AED:
-se completo el desarrollo de lo requerido pero se puede seguir mejorando, por ejemplo la creacion de las figuras y agregar validaciones para valores no validos en las mismas
+se completo el desarrollo de lo requerido pero se puede seguir mejorando, por ejemplo la creacion de las figuras y agregar validaciones para valores no validos en las mismas, mi foco estuvo
+en facilitar el agregar nuevas formas y los calculos de cada una, asi como la totalizacion de las mismas, se puede mejorar y es facil de romper en este punto al momento de crear las figuras y agregarlas a la lista que se envia al metodo Imprimir
